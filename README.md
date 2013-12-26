@@ -134,11 +134,11 @@ One should be able to get javadocs for all dependencies using this snippet (unte
 Source: [Maven Dependency Plugin](http://maven.apache.org/plugins/maven-dependency-plugin/examples/using-dependencies-sources.html)
 
 Then (untested)
-> for i in build/apidocs/*; do
-> j=`basename $i`
-> echo installing $j
-> jdevhelp-link.sh $i $j
-> done
+    for i in build/apidocs/*; do
+      j=`basename $i`
+      echo installing $j
+      jdevhelp-link.sh $i $j
+    done
 
 ### Tagging methods, fields and constructors
 
