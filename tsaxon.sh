@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 # tsaxon.sh - invoke Saxon 9 with TagSoup parser to parse HTML
 # Copyright 2013 Eric Le Lay wanadoo.fr:neric27
 #
