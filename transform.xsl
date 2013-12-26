@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <!--
  transform.xsl - produce a Devhelp version 2 book from given javadoc
- Copyright 2013 Eric Le Lay <neric27@wanadoo.fr>
+ Copyright 2013 Eric Le Lay wanadoo.fr:neric27
 
   This program is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by

@@ -19,7 +19,7 @@ This program makes javadocs browsable from
 
 ## Installation
 
-1. get this directory
+1. get this [directory](https://github.com/elelay/JDevhelp/archive/master.zip)
 2. download Saxon HE 9 from [Saxon homepage](http://saxon.sourceforge.net/)
    or [maven repository](http://search.maven.org/remotecontent?filepath=net/sf/saxon/Saxon-HE/9.5.1-3/Saxon-HE-9.5.1-3-compressed.jar)
 3. Save it in this directory as `saxonhe.jar`

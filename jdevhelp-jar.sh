@@ -1,6 +1,6 @@
 #!/bin/bash
 # jdevhelp-jar.sh - install javadoc artifact as Devhelp book
-# Copyright 2013 Eric Le Lay <neric27@wanadoo.fr>
+# Copyright 2013 Eric Le Lay wanadoo.fr:neric27
 #
 #  This program is free software: you can redistribute it and/or modify
 #  it under the terms of the GNU General Public License as published by

@@ -1,6 +1,6 @@
 #!/bin/sh
 # tsaxon.sh - invoke Saxon 9 with TagSoup parser to parse HTML
-# Copyright 2013 Eric Le Lay <neric27@wanadoo.fr>
+# Copyright 2013 Eric Le Lay wanadoo.fr:neric27
 #
 #  This program is free software: you can redistribute it and/or modify
 #  it under the terms of the GNU General Public License as published by
