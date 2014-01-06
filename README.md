@@ -22,7 +22,7 @@ This program makes javadocs browsable from
 1. get this [directory](https://github.com/elelay/JDevhelp/archive/master.zip)
 2. download Saxon HE 9 from [Saxon homepage](http://saxon.sourceforge.net/)
    or [maven repository](http://search.maven.org/remotecontent?filepath=net/sf/saxon/Saxon-HE/9.5.1-3/Saxon-HE-9.5.1-3-compressed.jar)
-3. Save it in this directory as `saxonhe.jar`
+3. Save it in this directory as `saxon9he.jar`
 4. download TagSoup from [TagSoup homepage](http://ccil.org/~cowan/XML/tagsoup/#1.2.1)
 5. Save it in this directory as `tagsoup-1.2.1.jar`
 
